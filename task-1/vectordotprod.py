@@ -1,0 +1,7 @@
+This infographic, titled "Essential Digital Skills for Students," is a vibrantly designed educational visual organized into three distinct, color-coded columns. It serves as a comprehensive guide for navigating the modern digital landscape, using a clean, professional aesthetic with illustrative icons and a soft-gradient background.
+
+The first column, "Understanding Digital Literacy," is highlighted in teal. It emphasizes the importance of finding, evaluating, and synthesizing online information. It underscores critical thinking and the ability to verify sources, ensuring students can effectively use various digital devices and platforms to manage content.
+
+The middle column, "Safe Internet Practices," uses a warm orange tone to focus on cybersecurity. It lists vital habits such as protecting personal information through private accounts, creating strong passwords with two-factor authentication (2FA), and avoiding phishing attempts. It also touches on digital citizenship by promoting cyberbullying prevention and respectful interactions.
+
+The final column, "Useful Digital Tools for Students," is presented in blue. This section provides a practical toolkit, categorizing software into productivity suites like Google Workspace, note-taking apps like Notion, and organization tools like Trello. The bottom of the slide features the hashtag #STUDENTDIGITALSUCCESS, grounding the graphic in a modern, social-media-friendly context.
